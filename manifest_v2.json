@@ -1,0 +1,63 @@
+{
+  "item": {
+    "id": "com.naoh.chemistryhelper",
+    "restype": "quick_app",
+    "name": "化学易",
+    "description": "# 化学易\n腕上化学学习工具\n\n化学易是一款完全免费的，支持9Pro，10Pro的化学学习工具，支持常见方程式配平，查询，离子方程式生成或离子共存检查，或在腕上做常见化学题！\n\n## 支持功能（后续更新）\n化学方程式查询/配平，离子方程式生成，离子共存，学习中心，在线排行榜，计算式查询/计算器，常见实验查询，原子质量，离子颜色，学习卡片，练习工具\n......\n\n## 后续将支持更多设备，目前仅支持\n9Pro,10Pro<br>\nREDMI WATCH 5/6（适配度90%，仅为页面偏差，问题不大）",
+    "preview": [
+      "media/容器 69.png",
+      "media/容器 68.png",
+      "media/容器 74.png",
+      "media/容器 75.png",
+      "media/容器 76.png",
+      "media/容器 77.png",
+      "media/容器 78.png",
+      "media/容器 79.png",
+      "media/容器 80.png",
+      "media/容器 81.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/幻灯片 4_3 - 2 (26).png",
+    "author": [
+      {
+        "name": "qyhOH",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "排行榜系统",
+      "url": "https://a43c68926c4f20182.app.workbuddy.host/",
+      "icon": "globe"
+    },
+    {
+      "title": "历史版本（v1.5.1之前的）",
+      "url": "https://www.bandbbs.cn/resources/9142/#resflag",
+      "icon": "download"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.5.1",
+      "file_name": "downloads/com.naoh.chemistryhelper.release.1.5.1.rpk",
+      "versionCode": 12
+    },
+    "xmrw6": {
+      "version": "1.5.1",
+      "file_name": "downloads/com.naoh.chemistryhelper.release.1.5.1.rpk",
+      "versionCode": 12
+    },
+    "xmb10p": {
+      "version": "1.5.1",
+      "file_name": "downloads/com.naoh.chemistryhelper.release.1.5.1.rpk",
+      "versionCode": 12
+    },
+    "xmb9p": {
+      "version": "1.5.1",
+      "file_name": "downloads/com.naoh.chemistryhelper.release.1.5.1.rpk",
+      "versionCode": 12
+    }
+  },
+  "ext": {}
+}
