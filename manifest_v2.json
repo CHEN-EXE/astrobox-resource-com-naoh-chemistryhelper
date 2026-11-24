@@ -39,46 +39,46 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "2.0.0",
-      "file_name": "downloads/com.naoh.chemistryhelper.release.2.0.0.rpk",
-      "versionCode": 15,
+      "version": "2.2.0",
+      "file_name": "downloads/com.naoh.chemistryhelper.release.2.2.0 (3).rpk",
+      "versionCode": 16,
       "updatelogs": [
         {
-          "version": "2.0.0",
-          "content": "已支持SimpleFetch和学习易同步器（待上线），可使用网桥功能联网，使不支持fetch的设备恢复同等能力。\n化学方程式支持中文搜索\n键盘优化\n排行榜界面优化\n支持主题切换（Material Deisgn待测试，因此效果可能不好）\n支持自定义称呼"
+          "version": "2.2.0",
+          "content": "添加免责声明\n键盘优化\n修复部分问题\n若仍有问题请到评论区/QQ群提交问题"
         }
       ]
     },
     "xmrw6": {
-      "version": "2.0.0",
-      "file_name": "downloads/com.naoh.chemistryhelper.release.2.0.0.rpk",
-      "versionCode": 15,
+      "version": "2.2.0",
+      "file_name": "downloads/com.naoh.chemistryhelper.release.2.2.0 (3).rpk",
+      "versionCode": 16,
       "updatelogs": [
         {
-          "version": "2.0.0",
-          "content": "已支持SimpleFetch和学习易同步器（待上线），可使用网桥功能联网，使不支持fetch的设备恢复同等能力。\n化学方程式支持中文搜索\n键盘优化\n排行榜界面优化\n支持主题切换（Material Deisgn待测试，因此效果可能不好）\n支持自定义称呼"
-        }
-      ]
-    },
-    "xmb10p": {
-      "version": "2.0.0",
-      "file_name": "downloads/com.naoh.chemistryhelper.release.2.0.0.rpk",
-      "versionCode": 15,
-      "updatelogs": [
-        {
-          "version": "2.0.0",
-          "content": "已支持SimpleFetch和学习易同步器（待上线），可使用网桥功能联网，使不支持fetch的设备恢复同等能力。\n化学方程式支持中文搜索\n键盘优化\n排行榜界面优化\n支持主题切换（Material Deisgn待测试，因此效果可能不好）\n支持自定义称呼"
+          "version": "2.2.0",
+          "content": "添加免责声明\n键盘优化\n修复部分问题\n若仍有问题请到评论区/QQ群提交问题"
         }
       ]
     },
     "xmb9p": {
-      "version": "2.0.0",
-      "file_name": "downloads/com.naoh.chemistryhelper.release.2.0.0.rpk",
-      "versionCode": 15,
+      "version": "2.2.0",
+      "file_name": "downloads/com.naoh.chemistryhelper.release.2.2.0 (3).rpk",
+      "versionCode": 16,
       "updatelogs": [
         {
-          "version": "2.0.0",
-          "content": "已支持SimpleFetch和学习易同步器（待上线），可使用网桥功能联网，使不支持fetch的设备恢复同等能力。\n化学方程式支持中文搜索\n键盘优化\n排行榜界面优化\n支持主题切换（Material Deisgn待测试，因此效果可能不好）\n支持自定义称呼"
+          "version": "2.2.0",
+          "content": "添加免责声明\n键盘优化\n修复部分问题\n若仍有问题请到评论区/QQ群提交问题"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "2.2.0",
+      "file_name": "downloads/com.naoh.chemistryhelper.release.2.2.0 (3).rpk",
+      "versionCode": 16,
+      "updatelogs": [
+        {
+          "version": "2.2.0",
+          "content": "添加免责声明\n键盘优化\n修复部分问题\n若仍有问题请到评论区/QQ群提交问题"
         }
       ]
     }
